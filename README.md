@@ -9,4 +9,5 @@ a python bot who detects of a text is negative or positive
     ```
     python neg_pos.py
     ```
+  this script doesn't work really good becease the ai needs  more training, I will update this if I have a more trained ai.
   
